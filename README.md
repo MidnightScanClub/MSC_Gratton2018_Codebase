@@ -1,4 +1,4 @@
-# MSC_Gratton_2017_Codebase
+# MSC_Gratton2018_Codebase
 4.9.2018, CG
 
 This folder contains code to run analyses in:
